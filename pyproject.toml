@@ -1,0 +1,8 @@
+[project]
+name = "ml_RainfallPredict"
+version = "0.1.0"
+description = "Predicting rainfall is a vital aspect of weather forecasting, agriculture planning and water resource management. In this project, it will use linear regression algorithm that help establish relationship between two variables: one dependent (rainfall) and one or more independent variables (temperature, humidity). It tells us how many inches of rainfall we can expect."
+authors = [
+    {name = "Dhanu", email = "hansi77dhanu@gmail.com"}
+]
+requires-python = ">=3.9"
